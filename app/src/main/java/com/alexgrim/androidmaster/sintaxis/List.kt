@@ -1,4 +1,4 @@
-package com.alexgrim.androidmaster
+package com.alexgrim.androidmaster.sintaxis
 
 fun main() {
     mutableList()
